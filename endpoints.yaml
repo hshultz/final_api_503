@@ -1,3 +1,4 @@
 /: SHOW SERVER_VERSION
 /tz: SHOW TIMEZONE
 /exchangerates: SELECT * FROM exchange_rates;
+/currencies: SELECT * FROM currencies;
